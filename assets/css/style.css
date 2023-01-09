@@ -290,7 +290,7 @@ footer a {
     height: auto;
     display: inline-block;
     position: absolute;
-    font-size: 1.4rem;
+    font-size: 1.35rem;
     line-height: 1.5;
   }
   aside {
@@ -312,7 +312,7 @@ footer a {
     font-size: 1.5rem;
   }
   footer address {
-    padding-inline: 20rem;
+    padding-inline: 20%;
   }
 }
 @media print {
